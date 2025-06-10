@@ -1,0 +1,5 @@
+<resources>
+
+    <style name="AdActivityTheme" parent="@android:style/Theme.Translucent.NoTitleBar" />
+
+</resources>
